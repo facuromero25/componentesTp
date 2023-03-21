@@ -1,0 +1,8 @@
+header {
+    height : var(--toolbar-height);
+}
+.nav{
+    height: 30px;
+    position: fixed;
+
+} 

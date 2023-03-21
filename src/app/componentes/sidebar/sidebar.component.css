@@ -1,0 +1,13 @@
+aside{
+    
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height)); 
+   
+    position: fixed; 
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover{
+    background-color: purple;
+}
